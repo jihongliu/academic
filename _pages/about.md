@@ -21,5 +21,5 @@ This webpage functions as the central hub for the Bioinformatics Virtual Coordin
 ---
 
 <center>
-<img src="/images/Network-Organization-Overview-square.jpg" width="90%">
+<img src="/jihongliu/academic/images/Network-Organization-Overview-square.jpg" width="90%">
 </center>
